@@ -17,5 +17,3 @@ RUN apk update \
     /usr/lib/node_modules/npm/man /usr/lib/node_modules/npm/doc /usr/lib/node_modules/npm/html
 
 EXPOSE 8080
-
-CMD ["npm", "start"]
