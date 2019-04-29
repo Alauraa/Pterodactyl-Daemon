@@ -1,4 +1,5 @@
-FROM node:8.3.0-alpine MAINTAINER Alaura Fantasiannightmare@gmail.com
+FROM node:8.3.0-alpine 
+MAINTAINER Alaura Fantasiannightmare@gmail.com
 
 ENV DAEMON_VERSION=v0.6.12
 
